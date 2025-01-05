@@ -21,6 +21,12 @@
   padding: 5rem 1rem;
 }
 
+  .hero {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .section__subheader {
   margin-bottom: 0.5rem;
   position: relative;
